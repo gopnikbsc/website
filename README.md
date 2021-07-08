@@ -1,2 +1,1 @@
-# website
-Main Website for explaining and advertising Gopnik BSC
+Main website for explaining and advertising Gopnik BSC
